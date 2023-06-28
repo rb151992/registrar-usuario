@@ -1,0 +1,17 @@
+{
+  "name": "proyecto_-servidor",
+  "version": "1.0.0",
+  "description": "/* **** IMPORTANTE  **** */",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-server": "^0.17.3"
+  }
+}

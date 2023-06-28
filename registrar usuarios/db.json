@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "jesus",
+      "id": 1
+    },
+    {
+      "username": "pedro",
+      "id": 2
+    }
+  ],
+  "tareas": [
+    {
+      "text": "Programar",
+      "user": "jesus",
+      "id": 1
+    }
+  ]
+}
